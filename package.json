@@ -1,0 +1,24 @@
+{
+  "name": "tree-parser",
+  "version": "1.0.0",
+  "description": "**LEARNING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node ./demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zionhigt/tree-parser.git"
+  },
+  "author": "Sébastien LARCHER-LAFFONT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zionhigt/tree-parser/issues"
+  },
+  "homepage": "https://github.com/zionhigt/tree-parser#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
